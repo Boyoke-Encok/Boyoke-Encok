@@ -1,3 +1,4 @@
+![logo](https://github.com/Boyoke-Encok/Boyoke-Encok/blob/main/FB_IMG_1708940071932.jpg)
 # Hi there! 👋 I'm Boyoke Encok
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+profile!;I+am+a+passionate+developer.;Building+cool+projects+is+what+I+do!)
