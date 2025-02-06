@@ -37,8 +37,8 @@
 
 ### 🌐 Connect with Me:
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-%40Airdrop Jawa-blue?style=flat&logo=telegram)](https://t.me/mysqlproject)
-[![Telegram](https://img.shields.io/badge/Telegram-%40Boyoke Encok-blue?style=flat&logo=telegram)](https://t.me/BoyokeEncok2)
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-%40AirdropJawa-blue?style=flat&logo=telegram)](https://t.me/mysqlproject)
+[![Telegram](https://img.shields.io/badge/Telegram-%40BoyokeEncok-blue?style=flat&logo=telegram)](https://t.me/BoyokeEncok2)
 
 ---
 
